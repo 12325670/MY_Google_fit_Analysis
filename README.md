@@ -36,6 +36,7 @@ This project showcases how I analyzed my own physical activity data exported fro
 - Improved plotting and EDA skills
 - Discovered valuable insights from personal health data
 can be used for personal traker
+improved lifestyle
 ## 🤝 Connect
 Feel free to check my [LinkedIn profile](https://www.linkedin.com/)  
 Or share your own fitness analysis ideas with me!
