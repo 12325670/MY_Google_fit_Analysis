@@ -41,6 +41,6 @@ improved lifestyle
 Feel free to check my [LinkedIn profile](https://www.linkedin.com/)  
 Or share your own fitness analysis ideas with me!
 improved fitness
-
+.
 ---
 
